@@ -19,7 +19,7 @@ This project demonstrates segmentation of hyperspectral images using SAM (Segmen
 ### Segmentation Results
 
 <div align="center">
-  <img src="Colored_Mask_aaple.jpg" width="400"/> <img src="Separate_masks.jpg" width="200"/>
+  <img src="Colored_Mask_aaple.jpg" width="400"/> <img src="Separate_masks.png" width="400"/>
 </div>
 
 - Left: Colored segmentation with boundaries
